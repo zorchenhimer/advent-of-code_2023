@@ -23,7 +23,7 @@ numbers dim 10(20):
     ("seven"),("eight"),("nine"),("zero")
 
     display *n,"Starting"
-    open input,"input.txt"
+    open input,"../input.txt"
 
     loop
         read input,seq;line

@@ -23,7 +23,7 @@ Color dim 10
 Char dim 1
 GamePower form 6
 
-    open input,"input.txt"
+    open input,"../input.txt"
 
     loop
         read input,seq;line

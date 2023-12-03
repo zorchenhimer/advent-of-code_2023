@@ -13,7 +13,7 @@ LineDigitDim dim 2
 RunningSum form 8
 
     display *n,"Starting"
-    open input,"input.txt"
+    open input,"../input.txt"
 
     loop
         read input,seq;line

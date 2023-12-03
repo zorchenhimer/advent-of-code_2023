@@ -24,7 +24,7 @@ Number form 3
 Color dim 10
 Char dim 1
 
-    open input,"input.txt"
+    open input,"../input.txt"
     prep possibles,"possible-games.txt"
 
     loop
