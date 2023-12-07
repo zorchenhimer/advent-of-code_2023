@@ -1,6 +1,9 @@
 *.isi
 *.plc
 *.sdb
+*.txt
 
+!input.txt
+!answer.*.txt
 output.txt
 debug.txt
