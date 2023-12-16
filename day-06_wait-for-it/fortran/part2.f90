@@ -1,4 +1,4 @@
-program day6_part1
+program day6_part2
     use iso_fortran_env
     implicit none
 
@@ -56,4 +56,4 @@ program day6_part1
 
     print *, 'Total: ', count
 
-end program day6_part1
+end program day6_part2
