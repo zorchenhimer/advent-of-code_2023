@@ -2,8 +2,12 @@
 *.plc
 *.sdb
 *.txt
+*.so
 
 !input.txt
 !answer.*.txt
 output.txt
 debug.txt
+
+part1
+part2
